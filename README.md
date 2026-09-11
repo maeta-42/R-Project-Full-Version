@@ -239,3 +239,6 @@ This repository serves as the official landing page for R-project. The software 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of R-project today!**
+
+---
+**Last updated:** 2026-09-11 00:44:11 UTC
