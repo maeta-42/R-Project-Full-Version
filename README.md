@@ -241,4 +241,4 @@ This repository serves as the official landing page for R-project. The software 
 **Get the most recent version of R-project today!**
 
 ---
-**Last updated:** 2026-10-14 12:38:57 UTC
+**Last updated:** 2026-10-14 17:42:35 UTC
